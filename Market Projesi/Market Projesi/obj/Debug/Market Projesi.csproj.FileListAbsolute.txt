@@ -1,0 +1,11 @@
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\bin\Debug\Market Projesi.exe.config
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\bin\Debug\Market Projesi.exe
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\bin\Debug\Market Projesi.pdb
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\obj\Debug\Market Projesi.csprojAssemblyReference.cache
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\obj\Debug\Market_Projesi.Properties.Resources.resources
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\obj\Debug\Market Projesi.csproj.GenerateResource.cache
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\obj\Debug\Market Projesi.csproj.CoreCompileInputs.cache
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\obj\Debug\Market Projesi.exe
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\obj\Debug\Market Projesi.pdb
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\obj\Debug\Market_Projesi.Form1.resources
+C:\Users\sezer\Desktop\ödev\2.sınıf\Nesne Tabanlı Programlama\Market Projesi\Market Projesi\obj\Debug\Market_Projesi.mudurArayuz.resources
